@@ -1,5 +1,7 @@
-# hackintosh-Fujitsu-Esprimo-D756
-MacOS for Office PC
+# hackintosh-Fujitsu-Esprimo-P756
+MacOS for Office PC Fujitsu Esprimo P756/E90+
+
+Triple Boot (Windows Linux MacOS) with nice graphical OS Picker included
 
 | Specifications | Detail |
 |----------------|--------|
