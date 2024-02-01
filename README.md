@@ -1,5 +1,6 @@
 # hackintosh-Fujitsu-Esprimo-D756
 MacOS for Office PC Fujitsu Esprimo D756
+
 Triple Boot (Windows Linux MacOS) with nice graphical OS Picker included
 
 | Specifications | Detail |
